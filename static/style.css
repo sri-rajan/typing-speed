@@ -67,3 +67,12 @@ body{
     box-shadow: 0px 0px 7px gray;
     background-color: rgb(34, 33, 33);
 }
+
+.shows{
+    background-color: chocolate;
+}
+#scoreboard{
+    font-size:1.3em;
+    margin:10px 30px;
+    font-weight:900;
+}
